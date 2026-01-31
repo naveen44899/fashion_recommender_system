@@ -113,6 +113,14 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+images/
+venv/
+Lib/
+Scripts/
+etc/
+share/
+uploads
+*.pkl
 
 # Spyder project settings
 .spyderproject
