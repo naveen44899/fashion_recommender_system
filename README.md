@@ -56,10 +56,10 @@ git https://github.com/naveen44899/fashion_recommender_system.git
 
 ```
 
-### 2️⃣ Create Virtual Environment (Optional but Recommended)
+### 2️⃣ Create Virtual Environment 
 
 ```bash
-conda activate venv/ # On Windows: venv\Scripts\activate
+conda activate venv/ 
 ```
 
 ### 3️⃣ Install Dependencies
